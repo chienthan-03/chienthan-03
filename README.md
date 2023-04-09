@@ -1,5 +1,5 @@
 ### Hi, I'm Luan 👋
-### 🔭 I’m currently working javascript, reactjs, nodejs, css, html
+### 🔭 I’m currently working javascript, reactjs, vuejs, nodejs, css, html
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienthan-03&theme=tokyonight)
 
 
