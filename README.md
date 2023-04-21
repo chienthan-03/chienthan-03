@@ -1,4 +1,5 @@
 ### Hi, I'm Luan 👋
+![](https://komarev.com/ghpvc/?username=your-github-chienthan-03&color=green)
 ### 🔭 I’m currently working javascript, reactjs, vuejs, nodejs, css, html
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienthan-03&theme=tokyonight)
 
